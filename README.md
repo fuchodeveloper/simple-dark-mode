@@ -7,7 +7,7 @@ This is a minimalist Vue.js plugin for achieving dark mode on a web app. See usa
 Install package 
 
 ```sh
-npm install
+npm install @fredrick.mgbeoma/simple-dark-mode
 ```
 
 In your project entry point, e.g `src/main.ts`
